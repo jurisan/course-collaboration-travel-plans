@@ -55,6 +55,7 @@ h2 {
     background-color: #4dd0e1;
 }
 
+<<<<<<< HEAD
 #berlin {
     background-color: #D6AFD8;
 }
@@ -65,4 +66,27 @@ h2 {
 
 #germany {
     background-color: #AFC18B;
+||||||| merged common ancestors
+#barcelona {
+    background-color: #800000;
+=======
+#berlin {
+    background-color: #D6AFD8;
+}
+
+#japan {
+    background-color: #DC7183;
+}
+
+#germany {
+    background-color: #AFC18B;
+}
+
+#italy {
+    background-color: #9FB6D3;
+}
+
+#china {
+    background-color: #E8CC6D;
+>>>>>>> 6c7f785dbbd505d23696fd480c26c6c40869a9d2
 }
